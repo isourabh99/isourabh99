@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sourabh Soni
-- 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning MERN STACK DEVELOPMENT
 - 📫 Feel free to reach me @ isourabhsoni99@gmail.com
 - ⚡ Open to work and Freelance
