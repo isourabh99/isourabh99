@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sourabh Soni
-- 🌱 I’m currently learning MERN STACK DEVELOPMENT
+- 💻 Associate Software Engineer @ Bellway Infotech 
 - 📫 Feel free to reach me @ isourabhsoni99@gmail.com
 - ⚡ Open to work and Freelance
 - Lets drive innovation together....
